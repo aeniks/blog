@@ -19,7 +19,7 @@
 ##   posts         A number of blog posts to be listed on a single page.
 ##
 [blog]
-title=Blog Title
+title=Blog Title1
 subtitle=blog subtitle
 description=blog description
 keywords=blog keywords
